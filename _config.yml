@@ -21,8 +21,8 @@ defaults:
     layout: post
 email: kinggsone@gmail.com
 description: A blog about Japan
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 twitter_username: esGowens
 github_username: esGowens
 theme: minima
